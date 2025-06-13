@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778241151752",
+    "project_id": "super-nova-df484",
+    "storage_bucket": "super-nova-df484.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778241151752:android:4d9f3b2ddda361843012bd",
+        "android_client_info": {
+          "package_name": "com.example.super_nova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZTLrfxa95IALqlUyu7eZIFtnJi2rQymM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
